@@ -1,0 +1,14 @@
+{
+  "name": "starting",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanawat Tassana",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.4"
+  }
+}
